@@ -27,9 +27,7 @@ Banco de dados relacional com escalabilidade automática e economia de até 65%.
 
 ## 📎 Anexos
 
-- Diagrama de Arquitetura (em `/anexos/diagrama-arquitetura.png`)
 - Exemplo de Lambda Function (em `/anexos/exemplo-lambda.py`)
-- Prints do Console AWS (em `/anexos/prints/`)
 
 ---
 
